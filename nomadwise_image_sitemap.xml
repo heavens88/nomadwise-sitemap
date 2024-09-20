@@ -784,14 +784,6 @@
 </image:image>
 </url>
 <url>
-<loc>https://www.nomadwise.io/coworking/</loc>
-<image:image>
-<image:loc/>
-<image:caption/>
-<image:title/>
-</image:image>
-</url>
-<url>
 <loc>https://www.nomadwise.io/coworking/halokedungu</loc>
 <image:image>
 <image:loc>https://cdn.prod.website-files.com/64b6780f84d27e4bfd91f2d6/663292e51193325d338ae339_halokedungu1-6629c7a16ffbb.webp</image:loc>
@@ -1856,14 +1848,6 @@
 </image:image>
 </url>
 <url>
-<loc>https://www.nomadwise.io/coworking/</loc>
-<image:image>
-<image:loc/>
-<image:caption/>
-<image:title/>
-</image:image>
-</url>
-<url>
 <loc>https://www.nomadwise.io/coworking/sangha-cowork-funchal</loc>
 <image:image>
 <image:loc>https://cdn.prod.website-files.com/64b6780f84d27e4bfd91f2d6/664fb918a5756de07b23c29d_sangha-madeira-664f92f986bd4.webp</image:loc>
@@ -2298,7 +2282,7 @@
 <url>
 <loc>https://www.nomadwise.io/coworking/ubud-space-coworking-and-cafe</loc>
 <image:image>
-<image:loc/>
+<image:loc>https://cdn.prod.website-files.com/64b6780f84d27e4bfd91f2d6/65e1740781525dcfc764210c_ubudspace-ubud-01-65e1735d5a513.webp</image:loc>
 <image:caption>Ubud Space Cafe Coworking space in Ubud, Bali, with comfortable seating</image:caption>
 <image:title>Ubud Space Cafe Coworking space in Ubud, Bali</image:title>
 </image:image>
